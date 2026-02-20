@@ -39,3 +39,14 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# database
+*.db
+*.db-shm
+*.db-wal
+
+# uploads
+/public/uploads/
+
+# deployment artifacts
+*.zip
